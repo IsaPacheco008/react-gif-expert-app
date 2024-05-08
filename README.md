@@ -1,4 +1,6 @@
-# React + Vite
+# Gif Expert App React + Vite
+
+Repository of app to search gifs, made with react and JS.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
